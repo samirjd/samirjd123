@@ -4,6 +4,7 @@ samirg  good man
 samirg  good person now iam in website ater 123
 >>>>>>> f6eac7be9e97e706977167332424930be42185c8
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 samsoum iam here
@@ -16,3 +17,6 @@ samsoum iam here
 
 
 googala googala
+=======
+samir good 11-27
+>>>>>>> a235ad09d4f37379d6e3005b5bb482a5293d2b6e
